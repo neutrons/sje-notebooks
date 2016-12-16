@@ -1,7 +1,8 @@
 # Notebook examples for SNS jupyter environment
 
 These examples will be copied to a user's ~/notebooks directory
-when he/she log into jupyter.sns.gov for the first time.
+when he/she log into jupyter.sns.gov for the first time, 
+or restarts his/her jupyter server (Control Panel->Stop Server->Start Server).
 
 The only exception is subdir "IPTS".
 The IPTS subdir is organized by each IPTS number having
