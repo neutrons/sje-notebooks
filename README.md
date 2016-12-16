@@ -8,4 +8,5 @@ The only exception is subdir "IPTS".
 The IPTS subdir is organized by each IPTS number having
 its own directory (the number as the directory name).
 Only those IPTS that the user belongs to will be copied,
-so that user's notebooks directory is not cluttered.
+so that user's notebooks directory is not cluttered
+with unecessary files.
