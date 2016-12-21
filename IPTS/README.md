@@ -1,1 +1,2 @@
-# Notebook examples specific to an IPTS
+# IPTS-specific examples
+Each subdirectory corresponds to one IPTS.
