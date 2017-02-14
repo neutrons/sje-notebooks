@@ -1,3 +1,6 @@
 [submodule "IPTS/14832"]
 	path = IPTS/14832
 	url = https://github.com/JeanBilheux/IPTS_14832
+[submodule "mcvine"]
+	path = mcvine
+	url = https://github.com/mcvine/training
