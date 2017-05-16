@@ -4,3 +4,6 @@
 [submodule "mcvine"]
 	path = mcvine
 	url = https://github.com/mcvine/training
+[submodule "IPTS/IPTS_17099"]
+	path = IPTS/17099
+	url = https://github.com/ornlneutronimaging/IPTS_17099
