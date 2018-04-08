@@ -7,3 +7,7 @@
 [submodule "IPTS/IPTS_17099"]
 	path = IPTS/17099
 	url = https://github.com/ornlneutronimaging/IPTS_17099
+[submodule "tutorial"]
+	path = tutorial
+	url = https://github.com/neutrons/IPythonNotebookTutorial
+	branch = master
