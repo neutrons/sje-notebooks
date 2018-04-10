@@ -7,3 +7,6 @@
 [submodule "IPTS/IPTS_17099"]
 	path = IPTS/17099
 	url = https://github.com/ornlneutronimaging/IPTS_17099
+[submodule "mantid"]
+	path = mantid
+	url = https://github.com/mantidproject/training
