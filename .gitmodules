@@ -10,3 +10,6 @@
 [submodule "mantid"]
 	path = mantid
 	url = https://github.com/mantidproject/training
+[submodule "CG1DImaging/VENUS-chopper-design"]
+	path = CG1DImaging/VENUS-chopper-design
+	url = https://github.com/ornlneutronimaging/VENUS-chopper-design.git
