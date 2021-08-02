@@ -4,4 +4,4 @@ jobs:
   update-notebooks:
     runs-on: ubuntu-20.04
     steps:
-      - run: curl -sX POST -F token=${{ secrets.NOTEBOOKS_TRIGGER_TOKEN }} -F ref=master ${{ secrets.NOTEBOOKS_TRIGGER_URL }} > /dev/null
+      - run: curl -sX POST -F token=${{ secrets.NOTEBOOKS_TRIGGER_TOKEN }} -F "variables[NOTEBOOKS_FOLDER]=notebooks" -F ref=master ${{ secrets.NOTEBOOKS_TRIGGER_URL }} > /dev/null
