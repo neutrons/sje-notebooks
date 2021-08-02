@@ -1,12 +1,6 @@
-[submodule "IPTS/14832"]
-	path = IPTS/14832
-	url = https://github.com/JeanBilheux/IPTS_14832
 [submodule "mcvine"]
 	path = mcvine
 	url = https://github.com/mcvine/training
-[submodule "IPTS/IPTS_17099"]
-	path = IPTS/17099
-	url = https://github.com/ornlneutronimaging/IPTS_17099
 [submodule "mantid"]
 	path = mantid
 	url = https://github.com/mantidproject/training
